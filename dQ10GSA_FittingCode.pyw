@@ -286,7 +286,7 @@ class Fitting(Tk):
             messagebox.showerror(title='Error', message='Fitting First')
             return
         if 'Arr' in self.X_Min:
-            lnA, Eo, d = self.X_Min['dArr']
+            lnA, Eo, d = self.X_Min['Arr']
         if 'dArr' in self.X_Min:
             dlnA, dEo, d = self.X_Min['dArr']
 
