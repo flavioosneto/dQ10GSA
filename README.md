@@ -1,7 +1,7 @@
 # dQ10GSA
 dQ10GSA is a multi-platform application and is written in Python3 and Fortran, it is a free code compatible with Windows, Linux, and MacOS platforms. 
 
-<b> INSTALATION STEPS </b><br />
+<b> INSTALLATION STEPS </b><br />
 Follow these general installation and configuration steps:
 
 <b>Step 1.</b> Install or update Python3 version (https://www.python.org/) <br />
@@ -25,4 +25,4 @@ Follow these general installation and configuration steps:
 		
 <b>Step 5.</b> Run 'dQ10GSA_FittingCode.pyw'. The files must be in the same directory (folder).<br />
 
-Note: In the program windows there is a Help file.
+Note: In the windows program there is a Help file.
