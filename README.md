@@ -8,7 +8,7 @@ Follow these general installation and configuration steps:
         Note: In general, the Python is native on the Linux and MacOs systems. 
 
 <b>Step 2.</b> Download all files from GitHub and extract it to the same directory <br />
-    https://github.com/hugoUnB/dQ10-GSA
+    https://github.com/hugoUnB/dQ10GSA
 
 <b>Step 3.</b> Install requeriments.txt
 
