@@ -12,15 +12,15 @@ Follow these general installation and configuration steps:
 
 <b>Step 3.</b> Install requeriments.txt
 
-	3.1 On Windows open cmd, go to program folder and type:	<br />	
+	3.1 On Windows open cmd, go to program folder and type:		
 		pip install -r requirements.txt
 		
-	3.2 On Linux or MacOS open terminal go to program folder and type:	<br />
+	3.2 On Linux or MacOS open terminal go to program folder and type:	
 		pip3 install -r requirements.txt
 
 <b>Step 4.</b> Get Permission for GSA executable (for Linux and MacOS only)
 	
-	4.1 On Linux or MacOS open terminal go to program folder and type:<br />
+	4.1 On Linux or MacOS open terminal go to program folder and type:
 		sudo sh GetPermission.sh
 		
 <b>Step 5.</b> Run 'dQ10GSAFittingCode.pyw'. The files must be in the same directory (folder).<br />
