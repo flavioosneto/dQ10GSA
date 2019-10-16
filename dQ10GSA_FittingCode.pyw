@@ -564,7 +564,7 @@ class Fitting(Tk):
                 os.system('open -a ProgramHelp.pdf')
 
         except:
-            messagebox.showerror(title='Error',message='Please Download the manual at the address: https://github.com/hugoUnB/dQ10-GSA')
+            messagebox.showerror(title='Error',message='Please Download the manual at the address: https://github.com/hugoUnB/dQ10GSA')
 
     def About(self):
         t = Toplevel(self)
