@@ -1,21 +1,28 @@
-# dQ10+GSA
-dQ10+GSA is a multi-platform application and is written in Python and Fortran, it is a free code compatible with Windows, Linux, and MacOS platforms
+# dQ10GSA
+dQ10GSA is a multi-platform application and is written in Python3 and Fortran, it is a free code compatible with Windows, Linux, and MacOS platforms. 
 
-1. Install Python3 (https://www.python.org/)
+<b> Installation Steps </b>
+Follow these general installation and configuration steps:
 
-2. Download all files and extract to the same directory
+<b>Step 1.</b> Install or update Python3 version (https://www.python.org/)
+        Note: In general, the Python is native on the Linux and MacOs systems. 
 
-3. Install requeriments.txt
+<b>Step 2.</b> Download all files from GitHub and extract it to the same directory 
+    https://github.com/hugoUnB/dQ10-GSA
 
-	3.1 On Windows open cmd go to program folder and type:		
+<b>Step 3.</b> Install requeriments.txt
+
+	3.1 On Windows open cmd, go to program folder and type:		
 		pip install -r requirements.txt
 		
 	3.2 On Linux or MacOS open terminal go to program folder and type:	
 		pip3 install -r requirements.txt
 
-4. Get Permission for GSA executable (for Linux and MacOS only)
+<b>Step 4.</b> Get Permission for GSA executable (for Linux and MacOS only)
 	
 	4.1 On Linux or MacOS open terminal go to program folder and type:
 		sudo sh GetPermission.sh
 		
-3. Run 'dQ10GSAFittingCode.pyw'. The files must be in the same directory (folder).
+<b>Step 5.</b> Run 'dQ10GSAFittingCode.pyw'. The files must be in the same directory (folder).
+
+Note: In the program windows there is a Help file.
