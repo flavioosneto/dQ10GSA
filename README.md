@@ -23,6 +23,6 @@ Follow these general installation and configuration steps:
 	4.1 On Linux or MacOS open terminal go to program folder and type:
 		sudo sh GetPermission.sh
 		
-<b>Step 5.</b> Run 'dQ10GSAFittingCode.pyw'. The files must be in the same directory (folder).<br />
+<b>Step 5.</b> Run 'dQ10GSA_FittingCode.pyw'. The files must be in the same directory (folder).<br />
 
 Note: In the program windows there is a Help file.
