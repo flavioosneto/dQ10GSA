@@ -22,7 +22,7 @@ class Fitting(Tk):
     def __init__(self, *args, **kwargs):
         Tk.__init__(self, *args, **kwargs)
         self.geometry("850x690+100+100")
-        self.title('dQ10+GSA Fitting - Vesion:{}'.format(self.__version__))
+        self.title('dQ10GSA Fitting - Vesion:{}'.format(self.__version__))
         self.resizable(False, False)
 
         ### Menu
@@ -36,7 +36,7 @@ class Fitting(Tk):
         subMenu.add_command(label='Exit', command = self.Exit)
 
         ### Title
-        ttk.Label(self, text="Qd10+GSA Fitting", font=('arial', 30, 'bold')).pack(pady=10)
+        ttk.Label(self, text="dQ10GSA Fitting", font=('arial', 30, 'bold')).pack(pady=10)
 
         ### dicts (entrada de dados, variáveis, labels checkbuttons)
         self.ed = {} ; self.Var = {} ; self.lb = {} ; self.cb = {}
